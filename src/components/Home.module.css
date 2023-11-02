@@ -1,0 +1,14 @@
+/* MyComponent.module.css */
+.container {
+    background-image: url('../images/burger.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    /* Other styles for your container */
+  }
+.container p{
+    font-size: 2rem;
+    color: rgb(65, 63, 63);
+    padding-top: 45rem;
+    
+}

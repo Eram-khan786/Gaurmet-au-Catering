@@ -1,0 +1,28 @@
+.main{
+  display: flex;
+  margin-top: 4rem;
+  position: fixed;
+}
+.heading{
+  font-size: 2rem;
+  text-align: center;
+}
+.table{
+  opacity: 0.7;
+  margin-left: 8rem;
+  margin-right: 3rem;
+}
+.para{
+  margin-top: 4rem;
+  margin-right: 8rem;
+  font-size: 1.2rem;
+}
+.tradition{
+  margin-top: 5rem;
+  text-align: center;
+  margin-bottom:2rem ;
+}
+
+.excepture{
+  color: rgb(83, 83, 83);
+}

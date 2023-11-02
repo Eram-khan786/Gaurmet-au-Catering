@@ -1,0 +1,32 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 1.1rem;
+    /* border: 2px solid blueviolet; */
+    text-align: center;
+    font-size: 1.1rem;
+    gap:1rem;
+    /* margin-top: 1rem; */
+}
+.fixingNavbar{
+    background-color:white;
+    box-shadow: 0 3px 5px rgb(159, 156, 156);
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.para{
+    text-align: center;
+}
+.name{
+    display: flex;
+    gap:1rem;
+    text-decoration: none;
+    color: rgb(159, 156, 156);
+}
+.link{
+
+    text-decoration: none;
+    color: rgb(78, 78, 78);
+}
